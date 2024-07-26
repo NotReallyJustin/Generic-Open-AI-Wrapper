@@ -1,2 +1,2 @@
-# Generic-Open-AI-Wrapper
+# Generic Open AI Wrapper
 For ChatGPT purposes
